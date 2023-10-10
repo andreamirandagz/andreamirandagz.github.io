@@ -11,5 +11,5 @@ My dissertation explores the available data to study Mexican migration and focus
 My second chapter discusses how migrant selection has changed between 2005-2020 and how an important component is gender. Finally, my third chapter adds to the literature on intentions to migrate by focusing on how preparing to migrate may be indicative of future migration.
 
 
-I will be on the academic Job Market during **Fall 2023**. You can find my latest [CV here](CV_2023.pdf). 
+I will be on the academic Job Market during **Fall 2023**. You can find my latest [CV here](/extrafiles/AndreaMirandaGonzalez_CV2023.pdf). 
 
