@@ -1,17 +1,20 @@
----
+﻿---
 layout: page
 permalink: /publications/
 title: publications
-description: 
-years: [2020]
+description:
 nav: true
 ---
 
 <div class="publications">
 
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+<h2 class="year">Peer-reviewed publications</h2>
+{% bibliography -f papers -q @article %}
+
+<h2 class="year">Manuscripts under review</h2>
+{% bibliography -f papers -q @unpublished[status=review]* %}
+
+<h2 class="year">Manuscripts in preparation</h2>
+{% bibliography -f papers -q @unpublished[status=prep]* %}
 
 </div>
