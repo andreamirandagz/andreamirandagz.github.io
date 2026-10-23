@@ -16,5 +16,5 @@ Finally, third chapter discusses how migrant selection has changed between 2005-
 
 
 
-You can find my latest [CV here](/extrafiles/CV_AndreaMirandaGonzalez2024.pdf). 
+You can find my latest [CV here](/extrafiles/CV_AndreaMirandaGonzalez2026.pdf), and my [publications here](/publications/).
 
